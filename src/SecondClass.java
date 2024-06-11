@@ -3,6 +3,5 @@ public class SecondClass {
         System.out.println("Hello, Matheus");
         System.out.print("como vai?");
         System.out.println("  " + "estou bem, obrigado!");
-
     }
 }
